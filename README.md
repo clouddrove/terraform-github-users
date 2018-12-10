@@ -13,3 +13,5 @@ module "user" {
   ssh_title           = "Mac15inch"
   gpg_key             = ""
 }
+
+## Inputs
