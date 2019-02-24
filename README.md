@@ -14,6 +14,3 @@ module "user" {
   gpg_key             = ""
 }
 ```
-
-## Inputs
-
